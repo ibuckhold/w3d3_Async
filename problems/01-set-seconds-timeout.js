@@ -22,7 +22,7 @@ setSecondsTimeout(function () {
     console.log('world');
 }, 1.4); // should print 'world' after 1400 milliseconds
 ***********************************************************************/
-console.log('yo what up bro');
+console.log('guess im  a cool cat now');
 
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
